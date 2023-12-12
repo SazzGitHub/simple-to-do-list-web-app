@@ -6,7 +6,6 @@
 - Add tasks to your ToDo list.
 - Mark tasks as completed.
 - Remove tasks from the list.
-- Displays the date and time when a task is added.
 
 ## Technologies Used
 
